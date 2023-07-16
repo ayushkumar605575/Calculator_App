@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#F00</color>
+    <color name="teal">#FF03DAC5</color>
+
+    <!--    <color name="almostBlack">#222</color>-->
+<!--    <color name="orange">#FF8c00</color>-->
+    <color name="linecolor">#DAD8D8</color>
+    <color name="btnBackground">#FFFFFF</color>
+    <color name="btnBackground2">#FF9800</color>
+</resources>
